@@ -53,7 +53,7 @@
           <li class="menu-has-children"><a href="">Utilisateur</a>
             <ul>
               <li><a href="#">Se connecter</a></li>
-              <li><a href="#">S'inscrire</a></li>
+              <li><a href="#inscription">S'inscrire</a></li>
             </ul>
           </li>
           <li><a href="#contact">Contact Us</a></li>

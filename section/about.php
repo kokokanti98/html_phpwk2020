@@ -1,9 +1,9 @@
 ﻿  <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div class="hero-container" data-aos="zoom-in" data-aos-delay="100">
-      <h1>Welcome to Regna</h1>
-      <h2>We are team of talanted designers making websites with Bootstrap</h2>
-      <a href="#about" class="btn-get-started">Get Started</a>
+      <h1>Bienvenue sur Charity</h1>
+      <h2>Nous mettons en relation les associations d'aide et les plus demunis</h2>
+      <a href="#about" class="btn-get-started">Commencer</a>
     </div>
   </section><!-- End Hero Section -->
 

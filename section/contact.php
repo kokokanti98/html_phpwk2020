@@ -41,36 +41,37 @@
               <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
             </div>
 
+         <!-- formulaire of subscribing -->
           </div>
-
-          <div class="col-lg-5 col-md-8">
-            <div class="form">
-              <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-                <div class="form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Votre nom" data-rule="minlen:4" data-msg="Veuillez au moins entrer 4 charactères" />
-                  <div class="validate"></div>
+              <div class="col-lg-5 col-md-8" id="inscription">
+                <div class="form">
+                  <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                    <div class="form-group">
+                      <input type="text" name="name" class="form-control" id="name" placeholder="Votre nom" data-rule="minlen:4" data-msg="Veuillez au moins entrer 4 charactères" />
+                      <div class="validate"></div>
+                    </div>
+                    <div class="form-group">
+                      <input type="text" name="name" class="form-control" id="name" placeholder="Votre pseudo" data-rule="minlen:4" data-msg="Veuillez au moins entrer 4 charactères" />
+                      <div class="validate"></div>
+                    </div>
+                    <div class="form-group">
+                      <input type="password" class="form-control" name="password" id="password" placeholder="Votre mot de passe" data-rule="password" data-msg="Veuillez entrer un mdp valide" />
+                      <div class="validate"></div>
+                    </div>
+                    <div class="form-group">
+                      <input type="password" class="form-control" name="password" id="password" placeholder="Tapez à nouveau" data-rule="password" data-msg="le mdp entrer ne coincide pas au celui d'avant" />
+                      <div class="validate"></div>
+                    </div>
+                    <div class="mb-3">
+                      <div class="loading">Loading</div>
+                      <div class="error-message"></div>
+                      <div class="sent-message">Your message has been sent. Thank you!</div>
+                    </div>
+                    <div class="text-center"><button type="submit">S'inscrire</button></div>
+                  </form>
                 </div>
-                <div class="form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Votre pseudo" data-rule="minlen:4" data-msg="Veuillez au moins entrer 4 charactères" />
-                  <div class="validate"></div>
-                </div>
-                <div class="form-group">
-                  <input type="password" class="form-control" name="password" id="password" placeholder="Votre mot de passe" data-rule="password" data-msg="Veuillez entrer un mdp valide" />
-                  <div class="validate"></div>
-                </div>
-                <div class="form-group">
-                  <input type="password" class="form-control" name="password" id="password" placeholder="Tapez à nouveau" data-rule="password" data-msg="le mdp entrer ne coincide pas au celui d'avant" />
-                  <div class="validate"></div>
-                </div>
-                <div class="mb-3">
-                  <div class="loading">Loading</div>
-                  <div class="error-message"></div>
-                  <div class="sent-message">Your message has been sent. Thank you!</div>
-                </div>
-                <div class="text-center"><button type="submit">S'inscrire</button></div>
-              </form>
-            </div>
-          </div>
+              </div>
+         <!-- End F. of Subscribing -->
 
         </div>
 
