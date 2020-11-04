@@ -8,7 +8,7 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong>Regna</strong>. All Rights Reserved
+        &copy; Copyright <strong>Charity</strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!--
@@ -17,7 +17,7 @@
         Licensing information: https://bootstrapmade.com/license/
         Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Regna
       -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Designed by <a href="https://bootstrapmade.com/">Charity</a>
       </div>
     </div>
   </footer><!-- End Footer -->

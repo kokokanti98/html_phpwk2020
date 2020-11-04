@@ -2,7 +2,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Regna Bootstrap Template</title>
+  <title>CHARITY WEBSITE</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -37,9 +37,8 @@
   <!-- ======= Header ======= -->
   <header id="header" class="header-transparent">
     <div class="container">
-
       <div id="logo" class="pull-left">
-        <a href="index.html"><img src="assets/img/logo.png" alt=""></a>
+        <a href="index.php"><img src="assets/img/logo.png" alt=""></a>
         <!-- Uncomment below if you prefer to use a text logo -->
         <!--<h1><a href="#hero">Regna</a></h1>-->
       </div>
@@ -47,25 +46,14 @@
       <nav id="nav-menu-container">
         <ul class="nav-menu">
           <li class="menu-active"><a href="index.php">Home</a></li>
-          <li><a href="#about">About Us</a></li>
+          <li><a href="#about">A propos de nous</a></li>
           <li><a href="#services">Services</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#team">Team</a></li>
-          <li class="menu-has-children"><a href="">Drop Down</a>
+          <li><a href="#portfolio">Articles</a></li>
+          <li><a href="#team">Equipe</a></li>
+          <li class="menu-has-children"><a href="">Utilisateur</a>
             <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="menu-has-children"><a href="#">Drop Down 2</a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 5</a></li>
+              <li><a href="#">Se connecter</a></li>
+              <li><a href="#">S'inscrire</a></li>
             </ul>
           </li>
           <li><a href="#contact">Contact Us</a></li>
