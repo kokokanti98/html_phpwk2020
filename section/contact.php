@@ -19,17 +19,17 @@
             <div class="info">
               <div>
                 <i class="fa fa-map-marker"></i>
-                <p>A108 Adam Street<br>New York, NY 535022</p>
+                <p>Paris<br>Ile de France</p>
               </div>
 
               <div>
                 <i class="fa fa-envelope"></i>
-                <p>info@example.com</p>
+                <p>exemple:kokokanti12</p>
               </div>
 
               <div>
-                <i class="fa fa-phone"></i>
-                <p>+1 5589 55488 55s</p>
+                <i class="fa fa-key"></i>
+                <p>Password</p>
               </div>
             </div>
 
@@ -47,19 +47,19 @@
             <div class="form">
               <form action="forms/contact.php" method="post" role="form" class="php-email-form">
                 <div class="form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Votre nom" data-rule="minlen:4" data-msg="Veuillez au moins entrer 4 charactères" />
                   <div class="validate"></div>
                 </div>
                 <div class="form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Votre pseudo" data-rule="minlen:4" data-msg="Veuillez au moins entrer 4 charactères" />
                   <div class="validate"></div>
                 </div>
                 <div class="form-group">
-                  <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                  <input type="password" class="form-control" name="password" id="password" placeholder="Votre mot de passe" data-rule="password" data-msg="Veuillez entrer un mdp valide" />
                   <div class="validate"></div>
                 </div>
                 <div class="form-group">
-                  <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                  <input type="password" class="form-control" name="password" id="password" placeholder="Tapez à nouveau" data-rule="password" data-msg="le mdp entrer ne coincide pas au celui d'avant" />
                   <div class="validate"></div>
                 </div>
                 <div class="mb-3">
@@ -67,7 +67,7 @@
                   <div class="error-message"></div>
                   <div class="sent-message">Your message has been sent. Thank you!</div>
                 </div>
-                <div class="text-center"><button type="submit">Send Message</button></div>
+                <div class="text-center"><button type="submit">S'inscrire</button></div>
               </form>
             </div>
           </div>
